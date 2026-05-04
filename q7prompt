@@ -1,0 +1,11 @@
+Write a beginner-friendly C++ console program that generates funny roast messages.
+
+Requirements:
+- Take user input (name)
+- Store at least 10 roast templates using {name} placeholder
+- Use random function to select different roast each time
+- Replace {name} with actual user input
+- Handle empty input properly
+- Add comments for understanding
+
+Also make sure the random output changes every time the program runs.
